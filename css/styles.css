@@ -1,0 +1,32 @@
+#main{
+	background-color: white;
+	padding: 2px 0px;
+	text-align: center;
+}
+#name{
+ text-align: center;
+ font-size: 32px;
+ font-weight: bold;
+ height: 40px;
+ background-color: lightgreen;
+ color: white;
+
+}
+.title{
+ background-color: lightgreen;
+ padding:5px;
+ font-family: "Helvetica";
+ color:white;
+ height: 100px;
+}
+ .circle{
+
+ }
+}
+.content_wrapper{
+	margin:auto;
+	background-color: white;
+	width: 500px;
+	text-align: left;
+}
+}
