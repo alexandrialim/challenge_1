@@ -45,15 +45,15 @@ width:90px;
 }
 #about_me{ 
 margin:auto;
-padding:100px;
 font-family: "Arial";
 color: lightgray;
 height:10px;
+text-align: left;
 }
 .content_wrapper{
 margin:auto;
-height: 100px;
-width: 100px;
+height: 20px;
+width: 90px;
 text-align: left;
 color:lightgray;
 font-family:"Helvetica";
